@@ -1,0 +1,6 @@
+{
+  "name": "Smart Customer Purchase Prediction System",
+  "description": "AI-powered customer segmentation and purchase prediction using clustering and boosting algorithms.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
